@@ -17,6 +17,11 @@ body {
   margin-bottom: 50px;
 }
 
+.marketing-icon {
+  width: 140px;
+  height: 140px;
+}
+
 /* Featurettes
 ------------------------- */
 
@@ -27,6 +32,11 @@ body {
 .featurette {
   padding-top: 40px; /* Vertically center images part 1: add padding above and below text. */
   overflow: hidden; /* Vertically center images part 2: clear their floats. */
+}
+
+.featurette-icon {
+  width: 200px;
+  height: 200px;
 }
 
 /* Give some space on the sides of the floated elements so text doesn't run right into it. */
